@@ -2,6 +2,6 @@
 
 ![Parallax-Effect](./sample.png)
 
-**Introduction:**
+# *Introduction:*
 
 This is a simple HTML CSS project to display the parallax effect
